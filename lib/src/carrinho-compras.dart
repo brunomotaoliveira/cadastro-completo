@@ -1,7 +1,7 @@
 import 'dart:io';
 
 List<String> produtos = []; // variavel global, fica fora da main(){}
-main() {
+carrinhoCompras() {
   bool condicao = true;
 
   while (condicao) {
